@@ -1,0 +1,26 @@
+Here are the top 5 posts from Hacker News:
+
+Title: An image of an archeologist adventurer who wears a hat and uses a bullwhip
+URL: https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer
+Comments: 422
+Hours Ago: 11
+
+Title: Build an 8-bit computer from scratch
+URL: https://eater.net/8bit/
+Comments: 19
+Hours Ago: 6
+
+Title: Building Gearbox Dynamometer
+URL: https://www.thriftybuilder.dev/post/gearbox-dynamometer
+Comments: 3
+Hours Ago: 1
+
+Title: Curl-impersonate: Special build of curl that can impersonate the major browsers
+URL: https://github.com/lwthiker/curl-impersonate
+Comments: 75
+Hours Ago: 13
+
+Title: The Slow Collapse of Critical Thinking in OSINT Due to AI
+URL: https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai
+Comments: 106
+Hours Ago: 10

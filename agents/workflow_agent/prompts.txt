@@ -1,0 +1,20 @@
+Email Automation:
+Hey, I am Nick. I have an AI automation business. I want to schedule a meeting regarding this service that I can provide to my client. My client's mail ID is warriorrockyff@gmail.com. Compose an email regarding this to him. Keep the subject as "AI Automation—Service" and send the email. Confirm whether the email is sent.
+
+News Extraction:
+Go to hackernews.com, show the top 5 posts with their title, URL, number of comments, and hours since post.
+
+Top Restaurants:
+5 good non-veg restaurants in Arumbakkam, Chennai.
+
+Flight Deals:
+Grab me the cheapest flight on april 17th 2025 from chennai to banglore. 1 pax. Use skyscanner. Give me the URL too. Details in structured format.
+
+Carbon Emissions Monitoring
+Navigate to https://www.epa.gov/ghgreporting and extract the latest facility-level greenhouse gas emissions data.
+
+Green Product Scraping
+Go to https://www.energystar.gov/productfinder/ and scrape certified laptop names and specifications.
+
+Renewable Energy Price Tracking
+Visit https://tradingeconomics.com/commodity/solar and https://tradingeconomics.com/commodity/wind to collect the current energy prices.

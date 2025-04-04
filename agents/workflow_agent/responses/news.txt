@@ -1,0 +1,26 @@
+Here are the top 5 posts from Hacker News:
+
+1. Title: How to Secure Existing C and C++ Software Without Memory Safety [pdf]
+   URL: https://arxiv.org/abs/2503.21145
+   Comments: 1
+   Hours Ago: 1
+
+2. Title: Taming the UB Monsters in C++
+   URL: https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/
+   Comments: 5
+   Hours Ago: 2
+
+3. Title: Win98-quickinstall: A framework and installer to quickly install Windows 98
+   URL: https://github.com/oerg866/win98-quickinstall
+   Comments: 39
+   Hours Ago: 4
+
+4. Title: One Last Ride for Antarctica's 'Ivan the Terra Bus'
+   URL: https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired
+   Comments: 0
+   Hours Ago: 2
+
+5. Title: Public secrets exposure leads to supply chain attack on GitHub CodeQL
+   URL: https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/
+   Comments: 49
+   Hours Ago: 13

@@ -1,0 +1,26 @@
+I have extracted the following information for the top 5 hotels in Dubai, sorted by price (lowest first):
+
+1. Luxury Apartments in Dubai marina:
+   - Price: ₹ 503 + ₹ 58,599 taxes and fees for 6 nights
+   - Review score: 5.1 (1,785 reviews)
+   - Description: Studio with Balcony. Entire studio • 1 bathroom • 1 kitchen • 60 m²2 beds (1 king, 1 sofa bed). Free cancellation. Only 6 left at this price on our site
+
+2. Amiqa Homes DIP 1:
+   - Price: ₹ 698 + ₹ 8,794 taxes and fees for 6 nights
+   - Review score: 7.6 (17 reviews)
+   - Description: Single Bed in Dormitory Room. Bed in dorm1 twin bed. Only 1 bed left at this price on our site
+
+3. Royal Marina Inn:
+   - Price: ₹ 792 + ₹ 58,573 taxes and fees for 6 nights
+   - Review score: 6.1 (105 reviews)
+   - Description: Studio with Balcony. Entire studio • 1 bathroom • 1 kitchen • 60 m²2 beds (1 sofa bed, 1 queen). Only 3 left at this price on our site
+
+4. alharaki Capsule:
+   - Price: ₹ 983 + ₹ 14,720 taxes and fees for 6 nights
+   - Review score: 8.1 (106 reviews)
+   - Description: Single Bed in Mixed Dormitory Room. Bed in dorm1 bunk bed. Breakfast included
+
+5. Goodwill Holidays JBR beach:
+   - Price: ₹ 1,606 + ₹ 4,478 taxes and fees for 6 nights
+   - Review score: Not available
+   - Description: Mixed Dormitory Room. Shared dorm room2 bunk beds. Free cancellation. No prepayment needed – pay at the property

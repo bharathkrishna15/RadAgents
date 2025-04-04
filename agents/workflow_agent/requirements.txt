@@ -1,0 +1,6 @@
+python-dotenv
+asyncio
+langchain-google-genai
+google-generativeai
+pydantic
+browser-use
